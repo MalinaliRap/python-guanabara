@@ -5,3 +5,4 @@ print('Prazer em te conhecer {:=^20}!'.format(nome))
 #{:^20} centralizado
 #{:.2f} arredondamento de casas decimais
 #{:=^20} centralizado e preenchendo o espaço com "="
+#alinhar
